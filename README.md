@@ -6,6 +6,7 @@ This code is used to easily download files from anonymous github
 You just have to pay attention 
 
 1: Set dir as the local download folder in paerser 
+
 2: Set url to the address of the destination file in paerser 
 
 Note: Both paths need to retain the final '/' 
